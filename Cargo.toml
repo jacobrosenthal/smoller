@@ -1,0 +1,8 @@
+[package]
+name = "smoller"
+version = "0.1.0"
+authors = ["Jacob Rosenthal <jacobrosenthal@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.3"
